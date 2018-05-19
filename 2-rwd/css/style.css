@@ -1,0 +1,34 @@
+* {
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Verdana", sans-serif;
+}
+
+
+header {
+    background-image: url(../css/obrazy/man-1.jpg);
+    background: cover;
+    height: 1128px;
+    position: relative;
+}
+
+div {
+    text-align: left;
+    transform: translateY(50%);
+    top: 50%;
+    width: 100%;
+    font-size: 100%;
+    position: absolute;
+    color: white;
+    padding: 30px;
+}
+
+div p {
+    font-size: 150%;
+    font-weight: bold;
+    bottom: 60px;
+    
+}
